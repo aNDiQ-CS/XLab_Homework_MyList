@@ -1,0 +1,11 @@
+C:\Users\AndiQ\source\repos\Lesson_2_main\aNDiQLib\bin\Debug\net8.0\aNDiQLib.deps.json
+C:\Users\AndiQ\source\repos\Lesson_2_main\aNDiQLib\bin\Debug\net8.0\aNDiQLib.dll
+C:\Users\AndiQ\source\repos\Lesson_2_main\aNDiQLib\bin\Debug\net8.0\aNDiQLib.pdb
+C:\Users\AndiQ\source\repos\Lesson_2_main\aNDiQLib\obj\Debug\net8.0\aNDiQLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AndiQ\source\repos\Lesson_2_main\aNDiQLib\obj\Debug\net8.0\aNDiQLib.AssemblyInfoInputs.cache
+C:\Users\AndiQ\source\repos\Lesson_2_main\aNDiQLib\obj\Debug\net8.0\aNDiQLib.AssemblyInfo.cs
+C:\Users\AndiQ\source\repos\Lesson_2_main\aNDiQLib\obj\Debug\net8.0\aNDiQLib.csproj.CoreCompileInputs.cache
+C:\Users\AndiQ\source\repos\Lesson_2_main\aNDiQLib\obj\Debug\net8.0\aNDiQLib.dll
+C:\Users\AndiQ\source\repos\Lesson_2_main\aNDiQLib\obj\Debug\net8.0\refint\aNDiQLib.dll
+C:\Users\AndiQ\source\repos\Lesson_2_main\aNDiQLib\obj\Debug\net8.0\aNDiQLib.pdb
+C:\Users\AndiQ\source\repos\Lesson_2_main\aNDiQLib\obj\Debug\net8.0\ref\aNDiQLib.dll
