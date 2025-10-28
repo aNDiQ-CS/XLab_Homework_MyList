@@ -35,7 +35,8 @@ namespace aNDiQLib
             for (int i = 0; i < _count-1; i++)
             {
                 s += _list[i] + ", ";
-            }            
+            }       
+            
             return s + _list[_count-1] + "]";
         }
 
@@ -143,7 +144,6 @@ namespace aNDiQLib
         {
             return IndexOf(item) >= 0;
         }
-
         
         public int IndexOf(T item)
         {
@@ -159,8 +159,9 @@ namespace aNDiQLib
         
         public T this[int i]
         {
-            get => _list[i];
+            get => _list[i];             //Возможна ошибка, переписать под i > 0 && i < _count
             set => _list[i] = value;
         }
     }
 }
+
