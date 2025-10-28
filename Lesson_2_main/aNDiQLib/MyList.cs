@@ -16,6 +16,7 @@ namespace aNDiQLib
 
         public void Add(T item)
         {
+            // TODO: Исключений лучше избегать, они затратны
             try
             {
                 _list[_count++] = item;
@@ -79,6 +80,7 @@ namespace aNDiQLib
                 ResizeMyList();
             }
 
+            // TODO: упростить, под Arrays лучше
             T[] tempList = new T[_capacity];
             for (int i = 0; i < index; i++)
             {
@@ -159,9 +161,10 @@ namespace aNDiQLib
         
         public T this[int i]
         {
-            get => _list[i];             //Возможна ошибка, переписать под i > 0 && i < _count
+            get => _list[i];             //TODO: Возможна ошибка, переписать под i > 0 && i < _count
             set => _list[i] = value;
         }
     }
 }
+
 
